@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>shopping-mall-management</name>
 	<comment>Shopping Mall Management System. NO_M2ECLIPSE_SUPPORT: Project files created with the maven-eclipse-plugin are not supported in M2Eclipse.</comment>
+=======
+	<name>tns_codes</name>
+	<comment></comment>
+>>>>>>> 12e6cf272e570663f34891af72e75e55164cd5eb
 	<projects>
 	</projects>
 	<buildSpec>
@@ -10,6 +15,7 @@
 			<arguments>
 			</arguments>
 		</buildCommand>
+<<<<<<< HEAD
 		<buildCommand>
 			<name>org.eclipse.m2e.core.maven2Builder</name>
 			<arguments>
@@ -18,11 +24,19 @@
 	</buildSpec>
 	<natures>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
+=======
+	</buildSpec>
+	<natures>
+>>>>>>> 12e6cf272e570663f34891af72e75e55164cd5eb
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
 	<filteredResources>
 		<filter>
+<<<<<<< HEAD
 			<id>1771863116209</id>
+=======
+			<id>1771924020936</id>
+>>>>>>> 12e6cf272e570663f34891af72e75e55164cd5eb
 			<name></name>
 			<type>30</type>
 			<matcher>
